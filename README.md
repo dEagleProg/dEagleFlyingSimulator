@@ -17,3 +17,14 @@ Use keys W,A,S,D to fly a plane, and Shift to speed up, fly inside the circles t
 <a href="https://deaglememo.netlify.app" target="_blank">
   <img src="https://i.imgur.com/gfBs7cu.jpg"> 
 </a>
+
+## Developer Instructions
+
+```
+npm install
+npm run dev
+```
+
+
+## Deployment
+**<p align='center'> Deployed on [_**Heroku**_](https://vercel.com/)</p>**
