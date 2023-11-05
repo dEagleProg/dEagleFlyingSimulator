@@ -8,7 +8,6 @@ Simple 3D flight simulator created using with React Three Fiber & Three.js
 
 Use keys W,A,S,D to fly a plane, and Shift to speed up, fly inside the circles to make them disappear.
 
-
 ## Images
 
 <a href="https://deaglememo.netlify.app" target="_blank">
