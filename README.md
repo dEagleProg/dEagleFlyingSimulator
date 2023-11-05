@@ -27,4 +27,4 @@ npm run dev
 
 
 ## Deployment
-**<p align='center'> Deployed on [_**Heroku**_](https://vercel.com/)</p>**
+**<p align='center'> Deployed on [_**Vercel**_](https://vercel.com/)</p>**
