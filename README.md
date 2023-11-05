@@ -1,4 +1,4 @@
-# dEagle-flying-simulator
+# dEagleFlyingSimulator
 
 Simple 3D flight simulator created using with React Three Fiber & Three.js
 
