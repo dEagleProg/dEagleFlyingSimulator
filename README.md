@@ -10,11 +10,11 @@ Use keys W,A,S,D to fly a plane, and Shift to speed up, fly inside the circles t
 
 ## Images
 
-<a href="https://deaglememo.netlify.app" target="_blank">
+<a href="https://deaglesimulator.vercel.app" target="_blank">
   <img src="https://i.imgur.com/eFaimE8.jpg"> 
 </a>
 
-<a href="https://deaglememo.netlify.app" target="_blank">
+<a href="https://deaglesimulator.vercel.app" target="_blank">
   <img src="https://i.imgur.com/gfBs7cu.jpg"> 
 </a>
 
